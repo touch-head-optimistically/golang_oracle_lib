@@ -5,6 +5,7 @@
 golang 与 Oracle client c library 的交叉编译
 
 ①server端,可直接用代码目录下的prebuild脚本自动配置环境(source prebuild.danastudio.sh)
+
 ②client端，要安装两个rpm包同时复制一些依赖,否则会报错缺少c的依赖
 
 
